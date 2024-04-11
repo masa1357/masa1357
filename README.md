@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 )](https://github.com/anuraghazra/github-readme-stats)
 
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=masa1357&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=masa1357&theme=onedark&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
 ### My Profile:
 
