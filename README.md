@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=masa1357&theme=onedark&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
 ## My Profile:
-  Masaki Koike
-  Graduate Student of Chubu University
-  Department of Information Technology
-  MPRG Group
-  Role:Git
+  Masaki Koike  
+  Graduate Student of Chubu University  
+  Department of Information Technology  
+  MPRG Group  
+  Role:Git  
 
 ## Status & Languages:
   <p align="left"> 
