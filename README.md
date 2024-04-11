@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **masa1357/masa1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,17 +23,21 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=masa1357&theme=onedark&column=9
 )](https://github.com/ryo-ma/github-profile-trophy)
-### My Profile:
+## My Profile:
   Masaki Koike
   Graduate Student of Chubu University
   Department of Information Technology
+  MPRG Group
+  Role:Git
 
-### Status & Languages:
+## Status & Languages:
   <p align="left"> 
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masa1357&layout=compact&show_icons=true&theme=onedark" />
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=masa1357&theme=onedark&show_icons=ture" />
   </p>
 
-### My Specialty Is:
+## My Specialty Is:
   Natural Language Processing
 
+## Ask Me About:
+  e-mail : masa1357@mprg.cs.chubu.ac.jp
